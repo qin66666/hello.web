@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+	<head>
+		<meta charset="UTF-8">
+		<title>我的淘宝</title>
+		<link rel="stylesheet" type="text/css" href="css/ppp.css">
+	</head>
+ 
+	<body>
+		<div>
+			<h3><img src="images/title.png" alt="我的淘宝" title="我的淘宝"></h3>
+			<ul>
+				<li>
+					<img src="img/pic01.jpg" alt="" class="top">
+					<p class="des">日韩镀白金版奥地利水晶手链日韩镀白金版奥地利水晶手链</p>
+					<p class="price">
+						<img src="../img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+				<li>
+					<img src="img/pic06.jpg" alt="" class="top">
+					<p class="des">高端礼品酒</p>
+					<p class="price">
+						<img src="img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+				<li>
+					<img src="img/pic05.jpg" alt="" class="top">
+					<p class="des">日韩酒</p>
+					<p class="price">
+						<img src="img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+				<li>
+					<img src="img/pic04.jpg" alt="" class="top">
+					<p class="des">正宗韩国拉面</p>
+					<p class="price">
+						<img src="img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+				<li>
+					<img src="img/pic03.jpg" alt="" class="top">
+					<p class="des">日韩镀白金版奥地利水晶手表</p>
+					<p class="price">
+						<img src="img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+				<li>
+					<img src="img/pic02.jpg" alt="" class="top">
+					<p class="des">武汉蜜枣</p>
+					<p class="price">
+						<img src="img/icon.png" alt="">
+						<span>￥49</span>
+						<span class="sales">销量：20</span>
+						<!-- 	一个标签浮动，同级标签必须浮动 -->
+					</p>
+					<!-- 找相似 -->
+					<a href="#">
+						<h6>找相似</h6>
+						<!-- h1-h6用来引入标题 -->
+						<p>发现更多宝贝</p>
+					</a>
+ 
+				</li>
+			</ul>
+		</div>
+	</body>
+ -->
+ 
+</html>
